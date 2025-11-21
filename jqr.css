@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #ededed;
+  text-align: center;
+}
+
+#carrom-board {
+  margin: 20px auto;
+  background: #fbeec1;
+  border: 8px solid #6a3b1a;
+  width: 420px;
+  box-shadow: 0 0 15px #333;
+  padding: 10px 0 20px 0;
+}
+
+canvas {
+  background: #e8dab2;
+  border: 2px solid #884700;
+  border-radius: 10px;
+}
